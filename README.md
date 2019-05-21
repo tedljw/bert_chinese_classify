@@ -1,4 +1,4 @@
-# bert_chinses_classify
+# bert_chinese_classify
 
 基于bert的中文短句分类
 
